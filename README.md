@@ -1,8 +1,5 @@
 # Object-Oriented-Programming-Team-Profile-Generator
 
-## Deployed Application
-[Click Here!](https://jordan-stafford.github.io/Object-Oriented-Programming-Team-Profile-Generator/)
-
 ## Badges
 ![issues](https://img.shields.io/github/issues/Jordan-Stafford/HTML-CSS-Git-Code-Refactor?style=for-the-badge)
 ![forks](https://img.shields.io/github/forks/Jordan-Stafford/HTML-CSS-Git-Code-Refactor?style=for-the-badge)
@@ -18,7 +15,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -49,8 +46,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Description
 
-## Features
-//INSERT MEDIA//
+## Media
 
 ## Installation
 
